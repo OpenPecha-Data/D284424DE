@@ -40,16 +40,17 @@ annotations:
       end: 1621
   769275e219fe4e638e901ac65c1a67da:
     span:
-      start: 2028
-      end: 2028
+      start: 2030
+      end: 2030
+      fail_update: both
   ffdcb26669aa4d149fa270624eaf31f0:
     span:
-      start: 2172
-      end: 2172
+      start: 2173
+      end: 2173
   694adff4dcc6458f821890ed82d93649:
     span:
-      start: 2197
-      end: 2197
+      start: 2198
+      end: 2198
 local_ids:
   14b8f325609c41ddb9adee06441714c7: 200000
   438e607f511d42b08cc1bd7cb3d4afbe: 200001
